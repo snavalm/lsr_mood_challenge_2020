@@ -1,0 +1,1 @@
+python /workspace/pred.py -i $1 -o $2 -m 'pixel' -d 'brain'
